@@ -5,8 +5,9 @@ body {
 .btn
 {
   height: auto;
-  width: 100%
+  width: 50%;
   font-family: 'Oswald', sans-serif;
+  font-size: 25px;
   background: rgb(36, 122, 23);
 }
 .btn:hover {
