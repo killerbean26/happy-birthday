@@ -47,7 +47,7 @@ body {
 .current:after {
   position: absolute;
   left: 5px;
-  content: "Yıl be!";
+  content: "Yıl be!"!important;
   font-size: 20px;
   opacity: 0.5;
 }
